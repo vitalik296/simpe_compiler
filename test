@@ -1,0 +1,9 @@
+PROGRAM DADA;
+CONST
+A0 = '';
+A1 = '12';
+A2 = '213,645';
+A3 = '6536$EXP(123)';
+A4 = '$EXP(123)';
+BEGIN
+END.
